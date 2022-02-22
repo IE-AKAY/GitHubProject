@@ -1,1 +1,3 @@
 test 3 dosyalımızı oluşturduk ve içindeki ilk yazılar.
+
+denedik bakalım folklama ne
